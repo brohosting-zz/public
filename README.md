@@ -8,3 +8,5 @@ Clients agree the following rules when submitting any kind of content there:
 
 
 Useful Links:
+
+<a href="https://www.brohosting.eu/?lang=en">BroHosting Official Website</a>
