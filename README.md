@@ -9,5 +9,5 @@ Clients agree the following rules when submitting any kind of content there:
 
 Useful Links:
 
-<a href="https://www.brohosting.eu/?lang=en" target="_blank">BroHosting Official Website</a>
+<a href="https://www.brohosting.eu/?lang=en" target="_blank">BroHosting Official Website</a> <br />
 <a href="http://billing.brohosting.eu/?lang=en" target="_blank">Client Area & Tickets</a>
